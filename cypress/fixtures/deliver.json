@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Walter Mudesto",
+    "cpf": "09311896837",
+    "email": "walter@walter.com.br",
+    "whatsapp": "11999999999",
+    "address": {
+      "postalcode": "06311001",
+      "street": "Avenida Rui Barbosa",
+      "number": "3366",
+      "details": "2001",
+      "district": "Vila Santa Terezinha",
+      "city_uf": "Carapicuíba/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Water Mudesto",
+    "cpf": "A93118968AA",
+    "email": "walter@wal.com.br",
+    "whatsapp": "11999449999",
+    "address": {
+      "postalcode": "06311001",
+      "street": "Avenida Rui Barbosa",
+      "number": "3366",
+      "details": "2001",
+      "district": "Vila Santa Terezinha",
+      "city_uf": "Carapicuíba/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Walter Mudesto",
+    "cpf": "09311896837",
+    "email": "walter.com.br",
+    "whatsapp": "11999999999",
+    "address": {
+      "postalcode": "06311001",
+      "street": "Avenida Rui Barbosa",
+      "number": "3366",
+      "details": "2001",
+      "district": "Vila Santa Terezinha",
+      "city_uf": "Carapicuíba/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
